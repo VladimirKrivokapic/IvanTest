@@ -1,1 +1,2 @@
 Promena
+Od promena treba da uradis da bude struktura po folderima
