@@ -1,0 +1,1 @@
+Sad preimenuj ovaj fajl u neki konkretan test scenario, na primer KupovinaTest.txt
