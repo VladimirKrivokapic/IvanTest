@@ -1,1 +1,1 @@
-1. Sad ce da bude rokacina na jednoj grani
+1. Sad ovaj test scenario prebaci u folder Tests
