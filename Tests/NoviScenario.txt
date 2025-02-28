@@ -1,1 +1,1 @@
-1. Sad ovaj test scenario prebaci u folder Tests
+Sad preimenuj ovaj fajl u neki konkretan test scenario, na primer KupovinaTest.txt
